@@ -8,12 +8,12 @@ Mi array contiene los series que vi ultimamente: Friends,Two & A Half Men,How I 
 La ultima que vi fue: The Big Bang Theory
 La anterior a esa: How I met your mother
 La primera de mi lista es: Friends
-Ejercicio 3: 
+Ejercicio 3:
 Mi lista de reproduccion por ahora tiene 0 canciones porque esta vacia.
 Ahora ya tengo mi album de Soda listo para reproducirse.En la ciudad de la furia,En rito,Hombre al agua,En el septimo dia con un total de 4 canciones.
 La proxima cancion a reproducir es En el septimo dia
 Y restan en mi lista: En la ciudad de la furia,En rito,Hombre al agua
-Ejercicio 4: 
+Ejercicio 4:
 No recuerdo en que posicion de mi biblioteca deje el libro de Sherlock. Harry Potter,Game of Thrones,Sherlock,Dracula
 Estaba en la posicion: 2
 Porque en verdad solo era la tapa, adentro esta el Libro de la Selva.
